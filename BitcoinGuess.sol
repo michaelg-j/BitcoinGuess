@@ -79,6 +79,10 @@ contract BitcoinGuess is usingOraclize {
         
     }
     
+    function getUserGuessedPriceByDay(uint day) constant public returns (uint){
+        return userGuesses[day][msg.sender];
+    }
+    
     function today() constant returns (uint) {
         return dayFor(time());
     }
