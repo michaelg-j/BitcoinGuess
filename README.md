@@ -8,4 +8,6 @@ The Contract had been deployed on Ropsten testnet
 
 You can find it by https://ropsten.etherscan.io/address/0x3aaaa8dd15d75d398e50f2321cf8dfbb0d4e7f01
 
+Also you can use web url https://michaelg-j.github.io/
+
 Notice that only 0.003 ether is required if you wanna guess with it
